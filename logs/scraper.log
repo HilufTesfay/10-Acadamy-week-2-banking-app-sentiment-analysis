@@ -82,3 +82,142 @@
 2025-06-08 20:03:23,278 - INFO - Found 500 reviews for BOA.
 2025-06-08 20:03:23,279 - INFO - Extracting data for BOA...
 2025-06-08 20:03:23,303 - INFO - Data saved to /home/hill/KAIM/projects/week-2/src/data/../../data/raw/BOA.csv.
+2025-06-08 20:37:34,534 - INFO - 🔄 Fetching reviews for CBE...
+2025-06-08 20:37:35,964 - INFO - Found 500 reviews for CBE.
+2025-06-08 20:37:35,964 - INFO - Extracting data for CBE...
+2025-06-08 20:37:35,989 - INFO - Data saved to /home/hill/KAIM/projects/week-2/src/data/../../data/raw/CBE.csv.
+2025-06-08 20:37:35,989 - INFO - 🔄 Fetching reviews for Dashen...
+2025-06-08 20:37:37,504 - INFO - Found 449 reviews for Dashen.
+2025-06-08 20:37:37,504 - INFO - Extracting data for Dashen...
+2025-06-08 20:37:37,524 - INFO - Data saved to /home/hill/KAIM/projects/week-2/src/data/../../data/raw/Dashen.csv.
+2025-06-08 20:37:37,525 - INFO - 🔄 Fetching reviews for BOA...
+2025-06-08 20:37:38,999 - INFO - Found 500 reviews for BOA.
+2025-06-08 20:37:39,000 - INFO - Extracting data for BOA...
+2025-06-08 20:37:39,033 - INFO - Data saved to /home/hill/KAIM/projects/week-2/src/data/../../data/raw/BOA.csv.
+2025-06-08 20:37:39,034 - INFO - Processing data for CBE...
+2025-06-08 20:37:39,034 - INFO - Cleaning data...
+2025-06-08 20:37:39,042 - INFO - Data cleaned. Remaining rows: 391
+2025-06-08 20:37:39,043 - INFO - Filtering English reviews...
+2025-06-08 20:50:10,773 - INFO - 🔄 Fetching reviews for CBE...
+2025-06-08 20:50:12,521 - INFO - Found 500 reviews for CBE.
+2025-06-08 20:50:12,521 - INFO - Extracting data for CBE...
+2025-06-08 20:50:12,545 - INFO - Data saved to /home/hill/KAIM/projects/week-2/src/data/../../data/raw/CBE.csv.
+2025-06-08 20:50:12,545 - INFO - 🔄 Fetching reviews for Dashen...
+2025-06-08 20:50:14,301 - INFO - Found 449 reviews for Dashen.
+2025-06-08 20:50:14,302 - INFO - Extracting data for Dashen...
+2025-06-08 20:50:14,323 - INFO - Data saved to /home/hill/KAIM/projects/week-2/src/data/../../data/raw/Dashen.csv.
+2025-06-08 20:50:14,323 - INFO - 🔄 Fetching reviews for BOA...
+2025-06-08 20:50:16,093 - INFO - Found 500 reviews for BOA.
+2025-06-08 20:50:16,093 - INFO - Extracting data for BOA...
+2025-06-08 20:50:16,115 - INFO - Data saved to /home/hill/KAIM/projects/week-2/src/data/../../data/raw/BOA.csv.
+2025-06-08 20:50:16,145 - INFO - Processing data for CBE...
+2025-06-08 20:50:16,146 - INFO - Cleaning data...
+2025-06-08 20:50:16,150 - INFO - Data cleaned. Remaining rows: 391
+2025-06-08 20:50:16,150 - INFO - Filtering English reviews...
+2025-06-08 20:52:14,119 - INFO - 🔄 Fetching reviews for CBE...
+2025-06-08 20:52:16,417 - INFO - Found 500 reviews for CBE.
+2025-06-08 20:52:16,417 - INFO - Extracting data for CBE...
+2025-06-08 20:52:16,443 - INFO - Data saved to /home/hill/KAIM/projects/week-2/src/data/../../data/raw/CBE.csv.
+2025-06-08 20:52:16,443 - INFO - 🔄 Fetching reviews for Dashen...
+2025-06-08 20:52:19,285 - INFO - Found 449 reviews for Dashen.
+2025-06-08 20:52:19,286 - INFO - Extracting data for Dashen...
+2025-06-08 20:52:19,309 - INFO - Data saved to /home/hill/KAIM/projects/week-2/src/data/../../data/raw/Dashen.csv.
+2025-06-08 20:52:19,309 - INFO - 🔄 Fetching reviews for BOA...
+2025-06-08 20:52:21,294 - INFO - Found 500 reviews for BOA.
+2025-06-08 20:52:21,294 - INFO - Extracting data for BOA...
+2025-06-08 20:52:21,315 - INFO - Data saved to /home/hill/KAIM/projects/week-2/src/data/../../data/raw/BOA.csv.
+2025-06-08 20:52:21,346 - INFO - Processing data for CBE...
+2025-06-08 20:52:21,346 - INFO - Cleaning data...
+2025-06-08 20:52:21,352 - INFO - Data cleaned. Remaining rows: 391
+2025-06-08 20:52:21,352 - INFO - Filtering English reviews...
+2025-06-08 20:52:21,848 - WARNING - Language detection failed: No features in text.
+2025-06-08 20:52:21,882 - WARNING - Language detection failed: No features in text.
+2025-06-08 20:52:22,080 - WARNING - Language detection failed: No features in text.
+2025-06-08 20:52:22,302 - WARNING - Language detection failed: No features in text.
+2025-06-08 20:52:22,538 - WARNING - Language detection failed: No features in text.
+2025-06-08 20:52:22,711 - WARNING - Language detection failed: No features in text.
+2025-06-08 20:52:22,962 - WARNING - Language detection failed: No features in text.
+2025-06-08 20:52:22,989 - WARNING - Language detection failed: No features in text.
+2025-06-08 20:52:23,052 - WARNING - Language detection failed: No features in text.
+2025-06-08 20:52:23,052 - WARNING - Language detection failed: No features in text.
+2025-06-08 20:52:23,132 - WARNING - Language detection failed: No features in text.
+2025-06-08 20:52:23,155 - WARNING - Language detection failed: No features in text.
+2025-06-08 20:52:23,309 - WARNING - Language detection failed: No features in text.
+2025-06-08 20:52:23,326 - WARNING - Language detection failed: No features in text.
+2025-06-08 20:52:23,432 - WARNING - Language detection failed: No features in text.
+2025-06-08 20:52:23,432 - WARNING - Language detection failed: No features in text.
+2025-06-08 20:52:23,433 - WARNING - Language detection failed: No features in text.
+2025-06-08 20:52:23,584 - WARNING - Language detection failed: No features in text.
+2025-06-08 20:52:23,590 - WARNING - Language detection failed: No features in text.
+2025-06-08 20:52:23,688 - WARNING - Language detection failed: No features in text.
+2025-06-08 20:52:23,694 - WARNING - Language detection failed: No features in text.
+2025-06-08 20:52:23,728 - WARNING - Language detection failed: No features in text.
+2025-06-08 20:52:23,901 - WARNING - Language detection failed: No features in text.
+2025-06-08 20:52:23,955 - WARNING - Language detection failed: No features in text.
+2025-06-08 20:52:23,972 - INFO - Filtered to 249 English reviews.
+2025-06-08 20:52:23,975 - INFO - Data saved to /home/hill/KAIM/projects/week-2/src/data/../../data/processed/CBE_reviews.csv
+2025-06-08 20:52:23,975 - INFO - Data processing completed for CBE.
+2025-06-08 20:52:23,975 - INFO - Processing data for  BOA...
+2025-06-08 20:52:23,975 - INFO - Cleaning data...
+2025-06-08 20:52:23,977 - INFO - Data cleaned. Remaining rows: 432
+2025-06-08 20:52:23,977 - INFO - Filtering English reviews...
+2025-06-08 20:52:24,070 - WARNING - Language detection failed: No features in text.
+2025-06-08 20:52:24,103 - WARNING - Language detection failed: No features in text.
+2025-06-08 20:52:24,339 - WARNING - Language detection failed: No features in text.
+2025-06-08 20:52:24,393 - WARNING - Language detection failed: No features in text.
+2025-06-08 20:52:24,511 - WARNING - Language detection failed: No features in text.
+2025-06-08 20:52:24,530 - WARNING - Language detection failed: No features in text.
+2025-06-08 20:52:24,644 - WARNING - Language detection failed: No features in text.
+2025-06-08 20:52:24,671 - WARNING - Language detection failed: No features in text.
+2025-06-08 20:52:24,714 - WARNING - Language detection failed: No features in text.
+2025-06-08 20:52:24,769 - WARNING - Language detection failed: No features in text.
+2025-06-08 20:52:24,802 - WARNING - Language detection failed: No features in text.
+2025-06-08 20:52:24,864 - WARNING - Language detection failed: No features in text.
+2025-06-08 20:52:24,935 - WARNING - Language detection failed: No features in text.
+2025-06-08 20:52:25,008 - WARNING - Language detection failed: No features in text.
+2025-06-08 20:52:25,016 - WARNING - Language detection failed: No features in text.
+2025-06-08 20:52:25,107 - WARNING - Language detection failed: No features in text.
+2025-06-08 20:52:25,152 - WARNING - Language detection failed: No features in text.
+2025-06-08 20:52:25,215 - WARNING - Language detection failed: No features in text.
+2025-06-08 20:52:25,301 - WARNING - Language detection failed: No features in text.
+2025-06-08 20:52:25,344 - WARNING - Language detection failed: No features in text.
+2025-06-08 20:52:25,400 - WARNING - Language detection failed: No features in text.
+2025-06-08 20:52:25,429 - WARNING - Language detection failed: No features in text.
+2025-06-08 20:52:25,530 - WARNING - Language detection failed: No features in text.
+2025-06-08 20:52:25,554 - WARNING - Language detection failed: No features in text.
+2025-06-08 20:52:25,554 - WARNING - Language detection failed: No features in text.
+2025-06-08 20:52:25,582 - WARNING - Language detection failed: No features in text.
+2025-06-08 20:52:25,613 - WARNING - Language detection failed: No features in text.
+2025-06-08 20:52:25,627 - WARNING - Language detection failed: No features in text.
+2025-06-08 20:52:25,695 - WARNING - Language detection failed: No features in text.
+2025-06-08 20:52:25,747 - WARNING - Language detection failed: No features in text.
+2025-06-08 20:52:25,763 - WARNING - Language detection failed: No features in text.
+2025-06-08 20:52:25,821 - WARNING - Language detection failed: No features in text.
+2025-06-08 20:52:25,824 - WARNING - Language detection failed: No features in text.
+2025-06-08 20:52:25,854 - WARNING - Language detection failed: No features in text.
+2025-06-08 20:52:25,869 - WARNING - Language detection failed: No features in text.
+2025-06-08 20:52:25,937 - INFO - Filtered to 297 English reviews.
+2025-06-08 20:52:25,941 - INFO - Data saved to /home/hill/KAIM/projects/week-2/src/data/../../data/processed/ BOA_reviews.csv
+2025-06-08 20:52:25,941 - INFO - Data processing completed for  BOA.
+2025-06-08 20:52:25,941 - INFO - Processing data for Dashen...
+2025-06-08 20:52:25,941 - INFO - Cleaning data...
+2025-06-08 20:52:25,943 - INFO - Data cleaned. Remaining rows: 408
+2025-06-08 20:52:25,943 - INFO - Filtering English reviews...
+2025-06-08 20:52:25,954 - WARNING - Language detection failed: No features in text.
+2025-06-08 20:52:25,972 - WARNING - Language detection failed: No features in text.
+2025-06-08 20:52:25,977 - WARNING - Language detection failed: No features in text.
+2025-06-08 20:52:26,098 - WARNING - Language detection failed: No features in text.
+2025-06-08 20:52:27,045 - WARNING - Language detection failed: No features in text.
+2025-06-08 20:52:27,187 - WARNING - Language detection failed: No features in text.
+2025-06-08 20:52:27,192 - WARNING - Language detection failed: No features in text.
+2025-06-08 20:52:27,252 - WARNING - Language detection failed: No features in text.
+2025-06-08 20:52:27,310 - WARNING - Language detection failed: No features in text.
+2025-06-08 20:52:27,321 - WARNING - Language detection failed: No features in text.
+2025-06-08 20:52:27,381 - WARNING - Language detection failed: No features in text.
+2025-06-08 20:52:27,382 - WARNING - Language detection failed: No features in text.
+2025-06-08 20:52:27,390 - WARNING - Language detection failed: No features in text.
+2025-06-08 20:52:27,434 - WARNING - Language detection failed: No features in text.
+2025-06-08 20:52:27,547 - WARNING - Language detection failed: No features in text.
+2025-06-08 20:52:27,812 - INFO - Filtered to 315 English reviews.
+2025-06-08 20:52:27,816 - INFO - Data saved to /home/hill/KAIM/projects/week-2/src/data/../../data/processed/Dashen_reviews.csv
+2025-06-08 20:52:27,816 - INFO - Data processing completed for Dashen.
